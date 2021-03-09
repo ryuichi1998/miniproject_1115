@@ -21,6 +21,24 @@ Group Prjoect on datascience using TMDB and IMDB
 - Potential Extensions
 - Food for Thought
 
+### Questions to Ponder
+- Which actors are bound to a genre, and which can easily hop genres?
+- Is there a trend in genre popularity over the years?
+- Can you use sound tracks to identify the genre of a movie?
+- Are top romance actors higher paid than top action actors?
+- If you look at release date vs popularity score, which movie genres have a longer shelf life?
+- Predict genre of movie based on the cast
+- Predicting film's revenue and user rating
+- Predict lists of recommended movie
+- Predict movie rating due to change of cast
+- Predict profit of movie in the pre production phase
+
+### Ideas to explore specifically for feature correlations:
+- Are title length correlated with movie genre?
+- Are movie posters darker for horror than for romance end comedy?
+- Are some genres specifically released more often at a certain time of year?
+- Is the RPG rating correlated with the genre?
+
 ### Useful Links
 - https://www.cnblogs.com/JZ-Ser/p/7195333.html
 - https://www.themoviedb.org/
