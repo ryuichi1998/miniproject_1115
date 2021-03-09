@@ -25,3 +25,4 @@ Group Prjoect on datascience using TMDB and IMDB
 - https://www.cnblogs.com/JZ-Ser/p/7195333.html
 - https://www.themoviedb.org/
 - https://www.imdb.com/interfaces/
+- https://pypi.org/project/tmdbv3api/
